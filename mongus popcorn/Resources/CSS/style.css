@@ -1,0 +1,13 @@
+html, body{
+    font-family:'Courier New', 'Courier New', Courier, monospace;
+    font-size:30px;
+    text-align:center;
+    word-spacing:5%;
+    letter-spacing: 1em;
+    line-height:2em;
+}
+
+#processing{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:10px;
+}
